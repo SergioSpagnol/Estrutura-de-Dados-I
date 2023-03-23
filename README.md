@@ -2,7 +2,7 @@
 
 Exercicios de Estrutura de Dados I
 
-Pilha Sequencia 
+Pilha Sequencial
 
 ![image](https://user-images.githubusercontent.com/62299705/227274966-b5c705b2-04fa-4cff-9766-49b402dc79fb.png)
 
